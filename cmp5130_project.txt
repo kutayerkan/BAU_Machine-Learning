@@ -1,0 +1,33 @@
+Important Notes
+
+This is a group project. Each group may consist of 2-3 students. 
+
+i) Grading of Project
+
+Project Proposal: 10%
+Report: 30%
+Quality of Work: 35%
+Presentation: 25%
+
+ii) Project proposal submission: A one-page project proposal that explains the aim of your project. Discuss the methods you plan to use. 
+Deadline for proposa: November 18, 23:59 (Strict). Please send your project proposal through itslearning.
+
+iii) Project report submission deadline: December 18, 23:59 (Strict). Please send your project report through itslearning. Use the template attached to prepare your project report. The project report should include the following sections: Introduction, Materials and Methods, Experimental Results and Conclusions.
+
+iv) Use the attached template to prepare your project report. 
+
+v) The presentations will be held at December 20 and December 27. I will later announce the exact presentation dates.
+
+vi) Project Content
+
+In the project report, you should:
+
+- Choose one or more datasets from Kaggle, UCI machine learning repository or any other internet source. You are also allowed to use a dataset belonging to the company or organization you work for if you have the required permissions.
+
+- Clearly define the aim of the project. You may use the methods we have covered until now this semester or any other machine learning method. 
+
+- Give a review of the related works about your project topics.
+
+- Briefly summarize the methods you have implemented in your project with your own words. 
+
+- Give the experimental results with tables and/or figures. Make comments and compare the algorithms with proper evaluation metrics depending on the structure of your problem and dataset.
